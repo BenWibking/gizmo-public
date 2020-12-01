@@ -1,0 +1,9 @@
+extraction:
+  cpp:
+    prepare:
+      packages:
+      - "libopenmpi-dev"
+      - "libgsl-dev"
+      - "libhdf5-dev"
+    index:
+      build_command: "make -j2"
