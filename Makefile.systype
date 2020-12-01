@@ -6,7 +6,8 @@
 #
 #############
 
-SYSTYPE="Frontera"
+SYSTYPE="Ubuntu"
+#SYSTYPE="Frontera"
 #SYSTYPE="Stampede2"
 #SYSTYPE="Wheeler"
 #SYSTYPE="MacBookPro"
