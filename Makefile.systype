@@ -6,7 +6,7 @@
 #
 #############
 
-SYSTYPE="Ubuntu"
+SYSTYPE="ubuntu"
 #SYSTYPE="Frontera"
 #SYSTYPE="Stampede2"
 #SYSTYPE="Wheeler"
